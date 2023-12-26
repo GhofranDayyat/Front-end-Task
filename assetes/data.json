@@ -1,0 +1,32 @@
+ [
+    {
+        "name": "Dash",
+        "email": "@dash",
+        "nfts": "12",
+        "image": "../assetes/images/avatar3.jpg"
+    },
+    {
+        "name": "Kohaku",
+        "email": "@kohaku",
+        "nfts": "48",
+        "image": "../assetes/images/avatar.jpg"
+    },
+    {
+        "name": "Moyo Shiro",
+        "email": "@moyoshiro",
+        "nfts": "32",
+        "image": "../assetes/images/avatar3.jpg"
+    },
+    {
+        "name": "Kohaku",
+        "email": "@kohaku",
+        "nfts": "60",
+        "image": "../assetes/images/avatar2.png"
+    },
+    {
+        "name": "Dash",
+        "email": "@kohaku",
+        "nfts": "4",
+        "image": "../assetes/images/avatar2.png"
+    }
+]

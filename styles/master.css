@@ -1,0 +1,49 @@
+.font-weight-bolder {
+    font-weight: bolder;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+iframe {
+    min-height: 500px;
+}
+
+body {
+    overflow: hidden;
+}
+
+.btn-outlined:hover {
+    color: #007BFF;
+    text-decoration: none;
+    background-color: none;
+    border-color: none;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+    color: gray;
+    background: none;
+    font-size: 9px;
+}
+
+.nav-tabs .nav-link.active {
+    background: none;
+    background: none;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #939303, #046204);
+    border-image-slice: 1;
+    color: gray;
+    cursor: pointer;
+    font-size: 9px;
+}
+
+.table tbody tr td {
+    background-color: black;
+    min-width: 140px;
+    border: 1px solid black;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.055);
+
+
+}

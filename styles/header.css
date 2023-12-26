@@ -1,0 +1,20 @@
+body,
+.wallPaper {
+    background-size: 100% 250%;
+    background-image: url('../assetes/images/wallpaper.jpg');
+    background-repeat: no-repeat;
+
+}
+
+.wallPaper,
+.header-row {
+    height: 55px;
+    background: none;
+}
+
+
+
+.header-row .border-whit {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.212) !important;
+}
+
