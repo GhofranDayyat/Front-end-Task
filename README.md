@@ -3,7 +3,7 @@
 # Built With
 - HTML
 - CSS
-- VANILLA JS
+- Vanilla JS
 - Bootstrap 5.3.2
   
 # Technical Notes
